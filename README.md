@@ -39,3 +39,12 @@ Ejecutar el contenedor: docker run -p 8000:8000 gestion-ia.
 
 📊 Propósito de la Actividad
 El objetivo principal es demostrar la capacidad de estructurar un entorno técnico que permita integrar lenguajes de alto nivel (Python) con sistemas de bases de datos, bajo un esquema de trabajo reproducible y automatizado, ideal para soluciones de Inteligencia Artificial.
+
+**1.Imagen Verificacion GitHub**
+![Github](./img/VerificacionGithub.png)
+
+**2. Despliegue Render**
+![Render](./img/DespliegueRender.png)
+
+**3. Prueba Aplicacion**
+![Prueba](./img/PruebaAplicacion.png)
